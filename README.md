@@ -1,4 +1,4 @@
-# OpenGL-2D
+# OpenGL-2D Brick Breaker Game
 
 OpenGL 2D Breakout clone created for the 2nd year Games Computing BSc Graphics Module.
 
