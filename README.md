@@ -19,3 +19,8 @@ Languages / Toolkit Used
 - SDL2_image 
 - GLEW
 - GLM
+
+___
+*Click on image to see video*
+<a href="https://www.youtube.com/watch?v=PPKO91nEsVE" target="_blank"><img src="https://img.youtube.com/vi/PPKO91nEsVE/maxresdefault.jpg" 
+alt="PhysX Rugby Kicking Game" width="920" height="517" border="0" /></a>
